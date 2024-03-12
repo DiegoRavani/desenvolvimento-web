@@ -1,0 +1,1 @@
+o elemento HTML que permite associar um documento CSS a uma página web é a tag <link>

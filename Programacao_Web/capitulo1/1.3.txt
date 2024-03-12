@@ -1,0 +1,2 @@
+O vínculo de diferentes páginas de hipertexto com arquivos JavaScript e CSS é possivel, podendo trazer benefícios, como a 
+reutilização de recursos.

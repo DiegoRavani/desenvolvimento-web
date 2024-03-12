@@ -1,0 +1,5 @@
+Uma página estática é pré-construída e entregue exatamente como é armazenada no servidor. O conteúdo é o mesmo para todos os usuários e não muda a menos que manualmente 
+atualizado pelo desenvolvedor. Possui como vantagem segurança, desempenho e simplicidade.
+Páginas dinâmicas são construídas sob demanda no momento em que são solicitadas pelos usuários. O conteúdo pode ser personalizado com base em diversos fatores, 
+como preferências do usuário, dados do banco de dados ou interações anteriores. Possui como vantagem
+conteúdo personalizado, atualizações em tempo real e interação com o usuário.

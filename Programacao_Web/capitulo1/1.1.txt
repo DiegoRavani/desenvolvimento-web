@@ -1,0 +1,4 @@
+Os três tipos básicos de código que compõem uma página de hipertexto são HTML,CSS e JavaScript. 
+o HTML define a estrutura e o contúdo presente na págiina, o CSS e responsável pela aparência
+das páginas, permitindo a aplicação de estilos e o JavaScript e responsável por adicionar
+interatividade e funconalidade dinâmica.

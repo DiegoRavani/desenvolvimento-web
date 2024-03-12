@@ -1,0 +1,1 @@
+Em uma mesma página de hipertexto podemos vincular múltiplos arquivos CSS e JavaScript, não tendo um limite de número de arquvos.

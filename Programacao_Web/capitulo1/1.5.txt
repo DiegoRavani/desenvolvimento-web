@@ -1,0 +1,4 @@
+O cliente envia uma requsição HTPT -> Servidore recebe a Requisição -> Servidor localiza o arquivo estático -> 
+o arquivo é enviado de volta para o cliente.
+Em resumo, o caminho envolve o cliente (navegador) enviando uma requisição ao servidor, o servidor respondendo 
+com o conteúdo HTML e outros recursos, e o navegador montando a página completa para exibição.

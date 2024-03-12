@@ -1,0 +1,1 @@
+o elemento <head> contém metadados sobre o título e a codiifiicação de caracteres da página.
