@@ -1,0 +1,19 @@
+p {
+    color: #FF5733;
+}
+
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+span.destaque {
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+}

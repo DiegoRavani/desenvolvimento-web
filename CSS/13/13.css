@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+}
+
+.item {
+    flex-grow: 1;
+    border: 1px solid black; 
+    padding: 10px; 
+}
+
+.item {
+    flex-grow: 1;
+    border: 1px solid black; 
+    padding: 10px; 
+}
+.item:nth-child(3) {
+    flex-grow: 2;
+}
+
+container_direita {
+    display: flex;
+    justify-content: flex-end;
+}
+.item {
+    border: 1px solid black; 
+    padding: 10px; 
+}
+
+.container_vertical {
+    display: flex;
+    align-items: center;
+    height: 200px; 
+    border: 1px solid black; 
+}
+.item {
+    border: 1px solid black; 
+    padding: 10px; 
+}

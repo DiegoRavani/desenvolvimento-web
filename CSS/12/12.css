@@ -1,0 +1,22 @@
+h1 {
+    display: inline;
+}
+
+span {
+    display: block;
+}
+
+img {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+div.ocultar {
+    display: none;
+}
+
+p.invisivel {
+    visibility: hidden;
+}

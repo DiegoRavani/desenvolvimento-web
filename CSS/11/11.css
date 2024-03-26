@@ -1,0 +1,23 @@
+h1::before {
+    content: "* ";
+}
+
+p::after {
+    content: "";
+    display: block;
+    margin-top: 0.5em;
+    border-top: 1px solid black;
+}
+
+p::first-letter {
+    font-size: 150%;
+}
+
+p::first-line {
+    color: blue;
+}
+
+ul::marker,
+ol::marker {
+    color: green;
+}

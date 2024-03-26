@@ -1,0 +1,19 @@
+.vermelho{
+    background-color: red;
+}
+
+p a {
+    color:blue;
+}
+
+.rgb{
+    background-color: rgb(50, 205, 50);
+}
+
+ul {
+    color: rgba(128, 128, 128, 0.5);
+}
+
+.fundo_elemento {
+    background-color: hsl(330, 75%, 70%);
+}

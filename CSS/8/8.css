@@ -1,0 +1,20 @@
+p{
+    font-size: 18px;
+}
+
+h1{
+    color: red;
+}
+
+#titulo{
+    color: aquamarine;
+}
+
+.destaque{
+    color: brown;
+}
+
+.container p {
+    font-size: 16px;
+    color: yellow;
+}   
